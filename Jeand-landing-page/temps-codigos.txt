@@ -1,0 +1,48 @@
+header{
+  width: 100%;
+  height:600px;
+  background: linear-gradient(to bottom,
+  rgba(211,135,20, .6),
+  rgba(29,241,171, .6),
+  rgba(7,109,150, .45)
+  ), url(img/fondo.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+  <div class="textos">
+            <h1>Jean Bardales</h1>
+            <h2>Diseñador Gráfico</h2>
+        </div>
+
+<div class="centrado" id="onload">
+        <div class="lds-facebook"><div></div><div></div><div></div>
+        &lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;</div>
+    </div>
+
+
+    <div class="contenedor">
+        <div class="slider-contenedor">
+            <section class="contenido-slider">
+
+                <img src="/img/banner(1).jpg" alt="">
+
+            </section>
+            <section class="contenido-slider">
+        
+
+                <img src="/img/banner(1).jpg" alt="">
+
+            </section>
+        <section class="contenido-slider">
+
+            <img src="/img/banner(3).jpg" alt="">
+
+        </section>
+
+    </div>
+    </div>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+        crossorigin="anonymous">
